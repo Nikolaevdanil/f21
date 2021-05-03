@@ -1,0 +1,124 @@
+579462 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: Manufacture(id=null, name=Даниил, address=Ул. Студенческая 33, workerList=null)
+579470 [http-nio-8082-exec-3] INFO  c.e.demo.service.ManufactureService –Added new manufacture Manufacture(id=null, name=Даниил, address=Ул. Студенческая 33, workerList=null)
+580459 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+580459 [http-nio-8082-exec-4] INFO  c.e.demo.service.WorkerService –Found all workers
+580462 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+580462 [http-nio-8082-exec-4] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+587114 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: Manufacture(id=null, name=Даниил1, address=Ул. Студенческая 33, workerList=null)
+587114 [http-nio-8082-exec-5] INFO  c.e.demo.service.ManufactureService –Added new manufacture Manufacture(id=null, name=Даниил1, address=Ул. Студенческая 33, workerList=null)
+587880 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+587881 [http-nio-8082-exec-6] INFO  c.e.demo.service.WorkerService –Found all workers
+587885 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+587886 [http-nio-8082-exec-6] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+591675 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: 50
+591675 [http-nio-8082-exec-7] WARN  c.e.demo.service.ManufactureService –Trying to delete manufacture with id 50
+591744 [http-nio-8082-exec-8] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+591744 [http-nio-8082-exec-8] INFO  c.e.demo.service.WorkerService –Found all workers
+591747 [http-nio-8082-exec-8] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+591747 [http-nio-8082-exec-8] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+592691 [http-nio-8082-exec-9] INFO  com.example.demo.aspect.Aspect –Parameters: 56
+592691 [http-nio-8082-exec-9] WARN  c.e.demo.service.ManufactureService –Trying to delete manufacture with id 56
+592705 [http-nio-8082-exec-10] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+592705 [http-nio-8082-exec-10] INFO  c.e.demo.service.WorkerService –Found all workers
+592707 [http-nio-8082-exec-10] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+592707 [http-nio-8082-exec-10] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+593187 [http-nio-8082-exec-1] INFO  com.example.demo.aspect.Aspect –Parameters: 55
+593188 [http-nio-8082-exec-1] WARN  c.e.demo.service.ManufactureService –Trying to delete manufacture with id 55
+593200 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+593201 [http-nio-8082-exec-2] INFO  c.e.demo.service.WorkerService –Found all workers
+593203 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+593203 [http-nio-8082-exec-2] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+598189 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: Даниил
+598189 [http-nio-8082-exec-3] INFO  c.e.demo.service.ManufactureService –Found manufacture id with name Даниил
+598192 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: 54
+598192 [http-nio-8082-exec-3] INFO  c.e.demo.service.ManufactureService –Found manufacture by id 54
+598194 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: Worker(id=null, firstName=Даниил, lastName=Николаев, middleName=Александрович, manufacture=Manufacture(id=54, name=Даниил, address=Ул. Студенческая 33, workerList=[]))
+598210 [http-nio-8082-exec-3] INFO  c.e.demo.service.WorkerService –Added new worker Worker(id=null, firstName=Даниил, lastName=Николаев, middleName=Александрович, manufacture=Manufacture(id=54, name=Даниил, address=Ул. Студенческая 33, workerList=[]))
+598766 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+598766 [http-nio-8082-exec-4] INFO  c.e.demo.service.WorkerService –Found all workers
+598779 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+598779 [http-nio-8082-exec-4] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+627751 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: 38
+627751 [http-nio-8082-exec-5] INFO  c.e.demo.service.WorkerService –Got worker by card
+627756 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: 38
+627757 [http-nio-8082-exec-5] INFO  c.e.demo.service.WorkerService –Got worker by card
+627758 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: 38
+627758 [http-nio-8082-exec-5] INFO  c.e.demo.service.WorkerService –Got worker by card
+631934 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+631934 [http-nio-8082-exec-6] INFO  c.e.demo.service.ManufactureService –Sorted list of manufactures by name
+631936 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+634621 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+634622 [http-nio-8082-exec-7] INFO  c.e.demo.service.ManufactureService –Sorted list of manufactures by id
+634624 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+636125 [http-nio-8082-exec-8] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+636125 [http-nio-8082-exec-8] INFO  c.e.demo.service.ManufactureService –Sorted list of manufactures by address
+636128 [http-nio-8082-exec-8] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+637795 [http-nio-8082-exec-9] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+637795 [http-nio-8082-exec-9] INFO  c.e.demo.service.WorkerService –Sorted worker list by firstName
+637798 [http-nio-8082-exec-9] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+639321 [http-nio-8082-exec-10] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+639321 [http-nio-8082-exec-10] INFO  c.e.demo.service.WorkerService –Sorted worker list by id
+639325 [http-nio-8082-exec-10] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+640694 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+640694 [http-nio-8082-exec-2] INFO  c.e.demo.service.WorkerService –Sorted worker list by lastName
+640704 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+642359 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+642359 [http-nio-8082-exec-3] INFO  c.e.demo.service.WorkerService –Sorted worker list by middleName
+642367 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: [FAILED toString()]
+2906 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+2910 [restartedMain] INFO  com.example.demo.DemoApplication –Starting DemoApplication using Java 11.0.5 on DESKTOP-ILP6FKH with PID 6660 (C:\Users\Danya\IdeaProjects\DanilNachalo21\target\classes started by Danya in C:\Users\Danya\IdeaProjects\DanilNachalo21)
+2919 [restartedMain] INFO  com.example.demo.DemoApplication –No active profile set, falling back to default profiles: default
+3149 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+3150 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+6499 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+6609 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 90 ms. Found 2 JPA repository interfaces.
+9150 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8082 (http)
+9176 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8082"]
+9178 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+9178 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.45]
+9447 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+9447 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 6296 ms
+10276 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+10396 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.30.Final
+10758 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+10976 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+11391 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+11423 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+13670 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13683 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+13715 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+15048 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+15396 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+16189 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+16248 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8082"]
+16294 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8082 (http) with context path ''
+16327 [restartedMain] INFO  com.example.demo.DemoApplication –Started DemoApplication in 14.712 seconds (JVM running for 17.482)
+52609 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring DispatcherServlet 'dispatcherServlet'
+52609 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet –Initializing Servlet 'dispatcherServlet'
+52614 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet –Completed initialization in 4 ms
+52676 [http-nio-8082-exec-1] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+52716 [http-nio-8082-exec-1] INFO  c.e.demo.service.WorkerService –Found all workers
+53029 [http-nio-8082-exec-1] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+53041 [http-nio-8082-exec-1] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+58427 [http-nio-8082-exec-2] INFO  com.example.demo.aspect.Aspect –Parameters: 64
+58427 [http-nio-8082-exec-2] WARN  c.e.demo.service.ManufactureService –Trying to delete manufacture with id 64
+58497 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+58497 [http-nio-8082-exec-3] INFO  c.e.demo.service.WorkerService –Found all workers
+58503 [http-nio-8082-exec-3] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+58503 [http-nio-8082-exec-3] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+87997 [http-nio-8082-exec-4] INFO  com.example.demo.aspect.Aspect –Parameters: Manufacture(id=null, name=Lenovo, address=Ул. Студенческая 33, workerList=null)
+88025 [http-nio-8082-exec-4] INFO  c.e.demo.service.ManufactureService –Added new manufacture Manufacture(id=null, name=Lenovo, address=Ул. Студенческая 33, workerList=null)
+89505 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+89506 [http-nio-8082-exec-5] INFO  c.e.demo.service.WorkerService –Found all workers
+89511 [http-nio-8082-exec-5] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+89511 [http-nio-8082-exec-5] INFO  c.e.demo.service.ManufactureService –Found all manufactures
+98827 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: Lenovo
+98827 [http-nio-8082-exec-6] INFO  c.e.demo.service.ManufactureService –Found manufacture id with name Lenovo
+98859 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: 65
+98859 [http-nio-8082-exec-6] INFO  c.e.demo.service.ManufactureService –Found manufacture by id 65
+98862 [http-nio-8082-exec-6] INFO  com.example.demo.aspect.Aspect –Parameters: Worker(id=null, firstName=Даниил, lastName=Николаев, middleName=Александрович, manufacture=Manufacture(id=65, name=Lenovo, address=Ул. Студенческая 33, workerList=[]))
+98879 [http-nio-8082-exec-6] INFO  c.e.demo.service.WorkerService –Added new worker Worker(id=null, firstName=Даниил, lastName=Николаев, middleName=Александрович, manufacture=Manufacture(id=65, name=Lenovo, address=Ул. Студенческая 33, workerList=[]))
+99510 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+99511 [http-nio-8082-exec-7] INFO  c.e.demo.service.WorkerService –Found all workers
+99516 [http-nio-8082-exec-7] INFO  com.example.demo.aspect.Aspect –Parameters: {}
+99516 [http-nio-8082-exec-7] INFO  c.e.demo.service.ManufactureService –Found all manufactures
